@@ -1,0 +1,37 @@
+ID1,Topic1,ID2,Topic2,Count
+1,Navi,1,Navi,99720
+2,Cryptocurrency,2,Cryptocurrency,98520
+3,Entrepreneurship,3,Entrepreneurship,97320
+4,Security,4,Security,96120
+1,Navi,5,Spider Graph,142380
+1,Navi,6,Email Parser,140580
+1,Navi,7,Development,138780
+1,Navi,8,Billing,136980
+5,Spider Graph,5,Spider Graph,94920
+6,Email Parser,6,Email Parser,93720
+7,Development,7,Development,92520
+8,Billing,8,Billing,91320
+2,Cryptocurrency,9,Zendledger,135180
+2,Cryptocurrency,10,Exchange,133380
+2,Cryptocurrency,11,Fair market Price,131580
+2,Cryptocurrency,12,Wallet,129780
+9,Zendledger,9,Zendledger,90120
+10,Exchange,10,Exchange,88920
+11,Fair market Price,11,Fair market Price,87720
+12,Wallet,12,Wallet,86520
+3,Entrepreneurship,13,Funding,127980
+3,Entrepreneurship,14,Soft Skill,126180
+3,Entrepreneurship,15,Psychological makeup,124380
+3,Entrepreneurship,16,Start Up,122580
+13,Funding,13,Funding,85320
+14,Soft Skill,14,Soft Skill,84120
+15,Psychological makeup,15,Psychological makeup,82920
+16,Start Up,16,Start Up,81720
+4,Security,17,Encryption,120780
+4,Security,18,Firewall,118980
+4,Security,19,Authorization,117180
+4,Security,20,Anti virus,115380
+17,Encryption,17,Encryption,80520
+18,Firewall,18,Firewall,79320
+19,Authorization,19,Authorization,79120
+20,Anti virus,20,Anti virus,76920

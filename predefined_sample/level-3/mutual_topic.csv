@@ -1,0 +1,165 @@
+ID1,Topic1,ID2,Topic2,Count
+1,Navi,1,Navi,99720
+2,Cryptocurrency,2,Cryptocurrency,98520
+3,Entrepreneurship,3,Entrepreneurship,97320
+4,Security,4,Security,96120
+1,Navi,5,Spider Graph,142380
+1,Navi,6,Email Parser,140580
+1,Navi,7,Development,138780
+1,Navi,8,Billing,136980
+5,Spider Graph,5,Spider Graph,94920
+6,Email Parser,6,Email Parser,93720
+7,Development,7,Development,92520
+8,Billing,8,Billing,91320
+2,Cryptocurrency,9,Zendledger,135180
+2,Cryptocurrency,10,Exchange,133380
+2,Cryptocurrency,11,Fair market Price,131580
+2,Cryptocurrency,12,Wallet,129780
+9,Zendledger,9,Zendledger,90120
+10,Exchange,10,Exchange,88920
+11,Fair market Price,11,Fair market Price,87720
+12,Wallet,12,Wallet,86520
+3,Entrepreneurship,13,Funding,127980
+3,Entrepreneurship,14,Soft Skill,126180
+3,Entrepreneurship,15,Psychological makeup,124380
+3,Entrepreneurship,16,Start Up,122580
+13,Funding,13,Funding,85320
+14,Soft Skill,14,Soft Skill,84120
+15,Psychological makeup,15,Psychological makeup,82920
+16,Start Up,16,Start Up,81720
+4,Security,17,Encryption,120780
+4,Security,18,Firewall,118980
+4,Security,19,Authorization,117180
+4,Security,20,Anti virus,115380
+17,Encryption,17,Encryption,80520
+18,Firewall,18,Firewall,79320
+19,Authorization,19,Authorization,79120
+20,Anti virus,20,Anti virus,76920
+5,Spider Graph,21,Cluster,113580
+5,Spider Graph,22,Quadrant,111780
+5,Spider Graph,23,K Means,109980
+5,Spider Graph,24,Navigation,108180
+21,Cluster,21,Cluster,75720
+22,Quadrant,22,Quadrant,74520
+23,K Means,23,K Means,73320
+24,Navigation,24,Navigation,72120
+6,Email Parser,25,Wikipedia Topics,106380
+6,Email Parser,26,IMAP,104580
+6,Email Parser,27,Local Lock Box,102780
+6,Email Parser,28,S3,100980
+25,Wikipedia Topics,25,Wikipedia Topics,70920
+26,IMAP,26,IMAP,69720
+27,Local Lock Box,27,Local Lock Box,68520
+28,S3,28,S3,67320
+7,Development,29,Go Lang,99180
+7,Development,30,Ruby on Rails,97380
+7,Development,31,React JS,95580
+7,Development,32,R Programming,93780
+29,Go Lang,29,Go Lang,66120
+30,Ruby on Rails,30,Ruby on Rails,64929
+31,React JS,31,React JS,63720
+32,R Programming,32,R Programming,62520
+8,Billing,33,Invitation,91980
+8,Billing,34,Stripe,90180
+8,Billing,35,Business Plan,88380
+8,Billing,36,Free Trial,86580
+33,Invitation,33,Invitation,61320
+34,Stripe,34,Stripe,60120
+35,Business Plan,35,Business Plan,41244
+36,Free Trial,36,Free Trial,57720
+9,Zendledger,37,Gain calculation,84780
+9,Zendledger,38,Test Sheet,82980
+9,Zendledger,39,8489 Form,81180
+9,Zendledger,40,Audit packet,79380
+37,Gain calculation,37,Gain calculation,56520
+38,Test Sheet,38,Test Sheet,55320
+39,8489 Form,39,8489 Form,54120
+40,Audit packet,40,Audit packet,52920
+10,Exchange,41,Binance,77580
+10,Exchange,42,GDAX,75780
+10,Exchange,43,Coinbase,73980
+10,Exchange,44,Phoenix,72180
+41,Binance,41,Binance,51720
+42,GDAX,42,GDAX,50520
+43,Coinbase,43,Coinbase,49320
+44,Phoenix,44,Phoenix,48120
+11,Fair market Price,45,Coin API,70380
+11,Fair market Price,46,CryptoCompare,68580
+11,Fair market Price,47,BitcoinCharts,66780
+11,Fair market Price,48,Cryptonator,64980
+45,Coin API,45,Coin API,46920
+46,CryptoCompare,46,CryptoCompare,45729
+47,BitcoinCharts,47,BitcoinCharts,44520
+48,Cryptonator,48,Cryptonator,42120
+12,Wallet,49,Exodus,63180
+12,Wallet,50,Jaxx,61380
+12,Wallet,51,Coinfy,59580
+12,Wallet,52,CoinSpace,57780
+49,Exodus,49,Exodus,42120
+50,Jaxx,50,Jaxx,40920
+51,Coinfy,51,Coinfy,14322
+52,CoinSpace,52,CoinSpace,38520
+13,Funding,53,CTO,55980
+13,Funding,54,Company Takeover,54180
+13,Funding,55,Part time,52380
+13,Funding,56,Meetup,50580
+53,CTO,53,CTO,37320
+54,Company Takeover,54,Company Takeover,36120
+55,Part time,55,Part time,34920
+56,Meetup,56,Meetup,33720
+14,Soft Skill,57,Communication,48780
+14,Soft Skill,58,Work ethic,46980
+14,Soft Skill,59,Teamwork,45180
+14,Soft Skill,60,Integrity,43380
+57,Communication,57,Communication,32520
+58,Work ethic,58,Work ethic,31320
+59,Teamwork,59,Teamwork,301320
+60,Integrity,60,Integrity,1400
+15,Psychological makeup,61,Risk Taker,41580
+15,Psychological makeup,62,Global Leadership,39780
+15,Psychological makeup,63,Strategic Development,37980
+15,Psychological makeup,64,Motivation,36180
+61,Risk Taker,61,Risk Taker,27720
+62,Global Leadership,62,Global Leadership,26520
+63,Strategic Development,63,Strategic Development,25320
+64,Motivation,64,Motivation,24120
+16,Start Up,65,Prototype Development,34380
+16,Start Up,66,Silicon Valley,32580
+16,Start Up,67,Business model,30780
+16,Start Up,68,Scalability,28980
+65,Prototype Development,65,Prototype Development,22920
+66,Silicon Valley,66,Silicon Valley,21720
+67,Business model,67,Business model,20520
+68,Scalability,68,Scalability,19320
+17,Encryption,69,SHA,27180
+17,Encryption,70,MD5,25380
+17,Encryption,71,WAP,23580
+17,Encryption,72,WEP,21780
+69,SHA,69,SHA,18120
+70,MD5,70,MD5,16920
+71,WAP,71,WAP,15720
+72,WEP,72,WEP,14520
+18,Firewall,73,Gateway,19980
+18,Firewall,74,Packet filter,18180
+18,Firewall,75,IPtables,16380
+18,Firewall,76,Whitelist,14580
+73,Gateway,73,Gateway,13320
+74,Packet filter,74,Packet filter,12120
+75,IPtables,75,IPtables,10920
+76,Whitelist,76,Whitelist,9720
+19,Authorization,77,Token Based,12780
+19,Authorization,78,Oauth,10980
+19,Authorization,79,Multi Factor,9180
+19,Authorization,80,Cookie,7380
+77,Token Based,77,Token Based,8520
+78,Oauth,78,Oauth,7320
+79,Multi Factor,79,Multi Factor,6120
+80,Cookie,80,Cookie,4820
+20,Anti virus,81,Trojan horse,5580
+20,Anti virus,82,Kaspersky,3780
+20,Anti virus,83,Window defender,1980
+20,Anti virus,84,Quarantine,180
+81,Trojan horse,81,Trojan horse,3720
+82,Kaspersky,82,Kaspersky,2520
+83,Window defender,83,Window defender,1320
+84,Quarantine,84,Quarantine,120
